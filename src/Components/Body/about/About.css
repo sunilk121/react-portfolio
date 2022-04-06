@@ -1,0 +1,36 @@
+.about
+{
+    padding-bottom: 48px;
+}
+.about-top
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main-picture
+{
+    height: 350px;
+}
+.about-info
+{
+    font-size: 24px;
+}
+@media only screen and (max-width:800px) {
+  .about-top
+  {
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+  }
+  .main-picture
+  {
+      height: 20  0px;
+  }
+  .about-info
+  {
+      font-size: 20px;
+  }
+
+}
