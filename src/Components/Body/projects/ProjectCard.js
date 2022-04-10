@@ -2,6 +2,7 @@ import React from "react";
 import "./ProjectCard.css";
 
 export const ProjectCard = ({ project }) => {
+  console.log(project.tags);
   return (
     <div className="project-card">
       <div className="project-info">
@@ -25,7 +26,7 @@ export const ProjectCard = ({ project }) => {
         <p>{project.about}</p>
         <div className="project-tags">
           {project.tags.map((tag) => {
-            return <label className="tags">{tag}</label>;
+            return <span className="tags">{tag} </span>;
           })}
         </div>
       </div>

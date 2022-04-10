@@ -3,7 +3,7 @@ export const ProjectData = [
     id: 1,
     title: "Random Project",
     about: "random project bla vblaasdasdasdas",
-    tags: ["ReactJs, NodeJs, JavaScript, HTML  , CSS, Boostrap"],
+    tags: ["ReactJs", "NodeJs", "JavaScript", "HTML", "CSS", "Boostrap"],
     liveLink: "www.",
     github: "dasdasd",
     image:
@@ -13,7 +13,7 @@ export const ProjectData = [
     id: 1,
     title: "Random Project",
     about: "random project bla vblaasdasdasdas",
-    tags: ["ReactJs, NodeJs, JavaScript, HTML  , CSS, Boostrap"],
+    tags: ["ReactJs", "NodeJs", "JavaScript", "HTML", "CSS", "Boostrap"],
     liveLink: "www.",
     github: "dasdasd",
     image:
@@ -23,7 +23,7 @@ export const ProjectData = [
     id: 1,
     title: "Random Project",
     about: "random project bla vblaasdasdasdas",
-    tags: ["ReactJs, NodeJs, JavaScript, HTML  , CSS, Boostrap"],
+    tags: ["ReactJs", "NodeJs", "JavaScript", "HTML", "CSS", "Boostrap"],
     liveLink: "www.",
     github: "dasdasd",
     image:
@@ -33,7 +33,7 @@ export const ProjectData = [
     id: 1,
     title: "Random Project",
     about: "random project bla vblaasdasdasdas",
-    tags: ["ReactJs, NodeJs, JavaScript, HTML  , CSS, Boostrap"],
+    tags: ["ReactJs", "NodeJs", "JavaScript", "HTML", "CSS", "Boostrap"],
     liveLink: "www.",
     github: "dasdasd",
     image:
