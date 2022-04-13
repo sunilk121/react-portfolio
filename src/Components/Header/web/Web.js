@@ -15,8 +15,8 @@ export const Web = () => {
         </a>
       </div>
       <div className="web-option">
-        <a href="#work">
-          <i class="fa-solid fa-briefcase option-icon"></i>Work
+        <a href="#study">
+          <i class="fa-solid fa-briefcase option-icon"></i>Study
         </a>
       </div>
       <div className="web-option">

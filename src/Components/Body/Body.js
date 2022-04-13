@@ -4,7 +4,7 @@ import "./Body.css";
 import { ContactMe } from "./contact/ContactMe";
 import { Projects } from "./projects/Projects";
 import { Skill } from "./skills/Skill";
-import { Work } from "./work/Work";
+import { Study } from "./study/Study";
 
 export const Body = () => {
   return (
@@ -18,8 +18,8 @@ export const Body = () => {
       <section id="skills">
         <Skill />
       </section>
-      <section id="work">
-        <Work />
+      <section id="study">
+        <Study />
       </section>
       <section id="contactme">
         <ContactMe />
