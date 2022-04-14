@@ -2,6 +2,7 @@ import React from "react";
 import { Seperator } from "../../common/seperator/Seperator";
 import { StudyData } from "../../social-data/StudyData";
 import { StudyCard } from "./StudyCard";
+import "./Study.css";
 
 export const Study = () => {
   const data = StudyData;
@@ -17,3 +18,5 @@ export const Study = () => {
     </div>
   );
 };
+
+export default Study;
